@@ -1,0 +1,9 @@
+codeigniter:
+
+Understand internal code
+-> Set proper URL
+-> Security Access using session(User/Admin)
+-> know about Query builder function
+-> pagination core php only
+
+cookies path: /foldername
